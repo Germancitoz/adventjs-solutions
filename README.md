@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the [AdventJS](https://adventjs.dev/) puzzles. Created by [@midudev](https://github.com/midudev)
 
-## Here you can find my **solutions** for each puzzle.
+## **Solutions** for each puzzle.
 
 | Chalenge | Problem                       | Solution                     | Score |
 | -------- | ----------------------------- | ---------------------------- | ----- |
