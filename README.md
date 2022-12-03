@@ -6,5 +6,5 @@ This repository contains my solutions to the [AdventJS](https://adventjs.dev/) p
 
 | Chalenge | Problem                       | Solution                     | Score |
 | -------- | ----------------------------- | ---------------------------- | ----- |
-| 1        | [See](solutions/01/README.md) | [See](solutions/01/index.js) | 122   |
+| 1        | [See](solutions/01/README.md) | [See](solutions/01/index.js) | 132   |
 | 2        | [See](solutions/02/README.md) | [See](solutions/02/index.js) | 122   |
