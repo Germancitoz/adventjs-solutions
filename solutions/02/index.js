@@ -1,5 +1,4 @@
-// eslint-disable-next-line no-undef
-countHours = (year, holidays) => {
+function countHours(year, holidays) {
   return holidays.reduce((accumulator, current) => {
     const date = new Date(`${year}/${current}`)
     const day = date.getDay()
