@@ -19,3 +19,4 @@ This repository contains my solutions to the [AdventJS](https://adventjs.dev/) p
 | 9        | [See](solutions/09/README.md) | [See](solutions/09/index.js) | 10    |
 | 10       | [See](solutions/10/README.md) | [See](solutions/10/index.js) | 140   |
 | 11       | [See](solutions/11/README.md) | [See](solutions/11/index.js) | 229   |
+| 12       | [See](solutions/12/README.md) | [See](solutions/12/index.js) | 300   |
