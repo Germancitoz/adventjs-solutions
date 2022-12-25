@@ -7,7 +7,7 @@ This repository contains my solutions to the [AdventJS](https://adventjs.dev/) p
 ## **Solutions** for each puzzle.
 
 | Chalenge | Problem                       | Solution                     | Score |
-| -------- | ----------------------------- | ---------------------------- | ----- |
+| -------- | ----------------------------- | ---------------------------- | ----- | --- |
 | 1        | [See](solutions/01/README.md) | [See](solutions/01/index.js) | 132   |
 | 2        | [See](solutions/02/README.md) | [See](solutions/02/index.js) | 122   |
 | 3        | [See](solutions/03/README.md) | [See](solutions/03/index.js) | 198   |
@@ -31,3 +31,4 @@ This repository contains my solutions to the [AdventJS](https://adventjs.dev/) p
 | 21       | [See](solutions/21/README.md) | [See](solutions/21/index.js) | 300   |
 | 22       | [See](solutions/22/README.md) | [See](solutions/22/index.js) | 400   |
 | 23       | [See](solutions/23/README.md) | [See](solutions/23/index.js) | 10    |
+| 24       | [See](solutions/24/README.md) | [See](solutions/24/index.js) | 150   | X   |
